@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Basic Express 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TournamentEditor", "TournamentEditor\TournamentEditor.vbproj", "{63C3B010-6A1B-42C2-A8B4-4071EE1AFCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C3B010-6A1B-42C2-A8B4-4071EE1AFCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C3B010-6A1B-42C2-A8B4-4071EE1AFCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C3B010-6A1B-42C2-A8B4-4071EE1AFCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C3B010-6A1B-42C2-A8B4-4071EE1AFCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
